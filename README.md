@@ -1,8 +1,8 @@
 ## Hi! I'm Adi 👍🏽👍🏽👍🏽
 
 🧠 Business Analytics and Statistics @ NUS <br>
-🧑‍💻 I (try to) create cool apps and projects <br>
-🚀 Enthusiastic about Data Science and ML! <br>
+🧑‍💻 I (try to) create cool apps and projects for myself and hopefully others to use!<br>
+🚀 I'm pretty enthusiastic about Data Science and Machine Learning, and hopefully you'll see some stuff about that soon!<br>
 
 
 ## 🌐 Socials:
